@@ -24,7 +24,9 @@ myVariableNumber = 0
 
 
 def someMath(num1= 2, num2= 5)
-myVariableNumber = num1 + num2
+	global myVariableNumber
+	
+	myVariableNumber = num1 + num2
 	return num1 + num2
 
 

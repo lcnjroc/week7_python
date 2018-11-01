@@ -8,14 +8,15 @@ Prerequisities: All you need is [Python](https://www.python.org) to play.
 
 Clone the project, navigate to the directory - <code>cd directoryname</code> - and run the game.py file in a Python3 Terminal window for Mac/Linux.
 
-
 The rules are as same as the game.
 
 1. Paper
 2. Scissors
 3. Rock
 
-Choose your weapon wisely!
+Choose your tool wisely!
+
+You have three lives so make them count!
 
 The computer choses first, just follow the prompts.
 
